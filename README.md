@@ -1,5 +1,5 @@
 # MockingOutDemo
-Demo for the blog post about mocking out demo.
+Demo for the blog post about mocking out.
 
 ## Technique 1
 
