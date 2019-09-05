@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2q80lv9ysnluy8pd?svg=true)](https://ci.appveyor.com/project/dariusz-wozniak/mockingoutdemo)
+
 # MockingOutDemo
 Demo for the blog post about mocking out.
 
